@@ -1,0 +1,11 @@
+framework module WYBOTFramework {
+  umbrella header "WYBOTFramework.h"
+  export *
+
+  module * { export * }
+}
+
+module WYBOTFramework.Swift {
+  header "WYBOTFramework-Swift.h"
+  requires objc
+}
