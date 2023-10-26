@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/WYBOTFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		6BfYmi7UUqniFt7yEwh2W6pkA5Q=
+		z5uNtKqn2fO6fNvvY3qbaiisJoM=
 		</data>
 		<key>Modules/WYBOTFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/WYBOTFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NPn9YPCOv2vQgGt2jJkogxIpSDI=
+		CfClfEL4Xf8gslrDdH0LVUSvYro=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0TEYtZSvDeCATO7tCmaPTcI9KcgGbavn9M80RHU0LO4=
+			gVmNPnVf/vtgxm4B27k8s1vZvD+DxEmhWTj7Jpl38cQ=
 			</data>
 		</dict>
 		<key>Modules/WYBOTFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OKxpyh7EUXyVJcRRHSvGuUjyhp16xAn48Td3fxsjwm8=
+			TQFCUJxjM8PlqEMMJOde4eCgMKEts2XErXohdlk6ZNY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
